@@ -98,4 +98,4 @@ The dataset includes:
 **Dinesh Singh**  
 📧 [dineshsingh26.7.2004@gmail.com]  
 🔗 [www.linkedin.com/in/dineshsinghs]  
-📂 GitHub: [Your GitHub Profile]
+📂 GitHub: [https://github.com/Dihnu/Airline_Intelligence-_Dashboard.git]
